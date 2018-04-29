@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="@dimen/list_item_height"
+    android:background="@color/colorBackground">
+
+    <TextView
+        android:id="@+id/title_text_view"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:textStyle="bold"
+        android:textColor="@color/colorTitle"
+        tools:text="Lizard King"
+        android:layout_margin="@dimen/title_margin"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/content_margin">
+    </TextView>
+
+        <LinearLayout
+            android:id="@+id/text_container"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           >
+
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="@dimen/image_height"
+                android:layout_height="@dimen/image_height"
+                android:layout_margin="@dimen/image_margin"
+                tools:src="@mipmap/ic_launcher"/>
+
+            <TextView
+                android:id="@+id/content_text_view"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_margin="@dimen/content_margin"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                android:textColor="@color/colorContentText"
+                tools:text="Najlepszy klub koncertowy w miescie..."
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1">
+            </TextView>
+
+        </LinearLayout>
+</LinearLayout>

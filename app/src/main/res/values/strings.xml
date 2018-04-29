@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">TorunTourGuideApp</string>
+
+       <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="museum_title_1">Toruń Regional Museum</string>
+    <string name="museum_content_1">
+        Located in the Town Hall of Toruń,
+        is one of the oldest and largest museums in Poland.
+        Exhibitions:
+        Gallery of Gothic Art.
+        Old Toruń - 1233-1793. History, art and crafts.
+        Royal Room - The set of the portraits of Polish monarchs.
+        Gallery of Polish Painting from the end of 18th century to circ. 1939.
+    </string>
+
+
+    <string name="museum_title_2">Copernicus House</string>
+    <string name="museum_content_2">
+        Nicolaus Copernicus was a Renaissance-era mathematician and astronomer who formulated a
+        model of the universe that placed the Sun rather than the Earth at the center of the universe.
+        There is no doubt that Nicolaus Copernicus was born in Toruń !!
+        The exhibition "Nicolaus Copernicus - the life and work"
+    </string>
+
+    <string name="museum_title_3">Ethnographic Museum</string>
+    <string name="museum_content_3">
+        The Museum basic task is accumulating, scientific working out, storage, protection, conservation
+        and making goods of culture available for people. Exhibitions: "Secrets of everyday life."
+Folk culture and related border issues from Kujawy to the Baltic Sea (1850-1950)
+    </string>
+
+    <string name="museum_title_4">Planetarium</string>
+
+    <string name="museum_content_4">The Planetarium in Torun was opened in February, 1994 and is very popular with school groups,
+        families with children and tourists. It is located in a historical tank of the old municipal gasworks in the Old Town.
+The Planetarium offers astronomical shows in the screening room under the dome and two interactive exhibitions: MARS#17 Base and Geodium.</string>
+
+    <string name="museum_title_5">CENTRE OF CONTEMPORARY ART</string>
+
+    <string name="museum_content_5">
+        CoCA in Torun, even if young, already profiled itself like an institution that puts emphasis on concepts of “being contemporary” and “being international”.
+        It’s interdisciplinary character and it’s openness towards most innovative and “cutting edge” researches in variety of expressive media guarantees it’s active
+        and dynamic role within regional and national cultural context, and underlines it’s strong potential in a dialogue with other contemporary art institutions operating world-wide.
+
+    </string>
+
+
+    <!-- DainerData -->
+    <string name="diner_title_1">Manekin</string>
+    <string name="diner_content_1">
+        Restaurant specialty:\nSavoury Pancakes, Oven-baked Pancakes with Cheese, Spelt Pancakes...\nRynek Staromiejski 16, Wysoka 5
+    </string>
+
+    <string name="diner_title_2">Luizjana</string>
+    <string name="diner_content_2">
+        Restaurant specialty:\nAmerican, Cajun and Louisiana Creole cuisine.\nMostowa 10/1
+
+    </string>
+    <string name="diner_title_3">Royal India</string>
+    <string name="diner_content_3">
+        Restaurant specialty:\nIndian and Asian cuisine.\nProsta 19
+
+    </string>
+    <string name="diner_title_4">Pasta i Basta</string>
+    <string name="diner_content_4">
+        Restaurant specialty:\nItalian cuisine.\nRynek Staromiejski 10
+
+    </string>
+    <string name="diner_title_5">Pierogarnia Pod Blaszanym Kotem</string>
+    <string name="diner_content_5">
+        Restaurant specialty:\nPolish Dumplings.\nRynek Staromiejski 8
+
+    </string>
+
+    <!-- EventData -->
+    <string name="event_title_1">Bella Skyway Festival</string>
+    <string name="event_content_1">
+        The festival that consists of installations made primarily of light.
+        Luminous works of art dispersed in various places of the city, projections
+        and interactive presentations are prepared by an international group of artists
+        especially for the presentation in Toruń. Buildings and squares change their shapes
+        and gain a new, previously unknown face thanks to illuminations and projections.
+    </string>
+
+    <string name="event_title_2">International Film Festival Tofifest</string>
+    <string name="event_content_2">
+        The International Film Festival "Tofifest" is a real fest for the cinema lovers.
+        It is also one of the largest and the most interesting summer film events in Poland.
+        The Tofifest is sometimes called "the Polish Sundance". Among titles displayed during the review,
+        there are films awarded in Berlin, Cannes and Locarno, as well as promising debuts.
+
+    </string>
+    <string name="event_title_3">Special Concert in memory of Grzegorz Ciechowski.</string>
+    <string name="event_content_3">
+        Each year in December, the Special Concert in memory of Grzegorz Ciechowski is being organised in the Od Nowa club.
+        The invitation to attend the event is accepted by the greatest celebrities of the Polish stage.
+        We hosted, inter alia, Justyna Steczkowska, Kasia Nosowska and Hey, Tomek Lipiński, Maria Peszek, Muniek Staszczyk, Kazik Staszewski, the Mech band and many others.
+
+    </string>
+    <string name="event_title_4">Probaltica</string>
+    <string name="event_content_4">
+        The idea of the festival was created at the beginning of the 90s when Baltic countries were re-established.
+        Then, it became clear how little people living in these countries know about the culture of their neighbours,
+        despite the geographical proximity. The festival was intended to change this, therefore its subsequent editions include
+        the need of presentation of the cultural heritage of all Baltic countries to the Polish audience.
+
+    </string>
+
+    <!-- DainerData -->
+    <string name="night_title_1">Lizard King</string>
+    <string name="night_content_1">
+        The best music club in the city. Great concerts and standups. On Friday and Saturday a great place to dance.\nKopernika 8
+    </string>
+
+    <string name="night_title_2">Hipisówka</string>
+    <string name="night_content_2">
+        Great place for Jamsesion. You can meet here many musicians from Toruń bands, talk, play and spend an interesting evening.
+        And to eat all the best PIZZA in the city at 4am.\nKopernika 10
+
+    </string>
+    <string name="night_title_3">Zezowate Szczęście</string>
+    <string name="night_content_3">
+        A magical place from the borderline of sleep and waking. Good drinks and good music.
+        I can meet the actors of Toruń's theater here.
+        Conversations on many topics last until early morning.\nśw. Ducha 5
+
+    </string>
+    <string name="night_title_4">Tratwa</string>
+    <string name="night_content_4">
+        Pub located in a beautiful place. Summer garden among green trees and bushes.
+        In the afternoon - friendly for animals and children (sand-pit, slides).\nFlisacza 7A
+
+    </string>
+    <string name="night_title_5">Kadr</string>
+    <string name="night_content_5">
+       Personnel invariably since 2004 is on the map of every Toruń student. A club housed in a medieval cellar is a tribute to the cinema and the stars of the silver screen.
+        The atmosphere is built here by the decor - the walls are decorated with posters and photos, and film gadgets hang from the ceiling.\nZeglarska 5
+
+    </string>
+
+
+</resources>
